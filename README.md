@@ -1,4 +1,6 @@
-This is a Lottery Solidity Contract
+This is a Lottery Solidity Contract.
+
+
 We are creating a lottery smart contract. So what are we considering:
 1. An only manager function
 2. Declaring an address of arrays to collect all the addresses involved in the lottery
